@@ -1,32 +1,39 @@
 // 1. Base de datos de proyectos
 const proyectos = [
     {
-        titulo: "Página Web 3D",
-        descripcion: "Interfaz interactiva con profundidad visual utilizando JavaScript y Three.js.",
-        img: "p1.webp",
-        repo: "https://github.com/...",
-        demo: "#"
+        titulo: "Aplicativo Web de Mantenimientos",
+        descripcion: "Aplicativo web para mantenimientos programados de Maquinarias Pesadas u otros autos. Hecho con Next.js y Firebase",
+        img: "apli1.webp",
+        repo: "maquinarias-7rp6.vercel.app",
+        demo: "maquinarias-7rp6.vercel.app"
     },
     {
-        titulo: "HEX Dev Logo",
-        descripcion: "Diseño de identidad visual gótica con estética vampírica para marca personal.",
-        img: "p2.webp",
-        repo: "https://github.com/...",
-        demo: "#"
+        titulo: "Aplicativo Web para Costos",
+        descripcion: "Aplicativo web para poder calcular costos, especializado para tiendas pequeñas y medianas, además de un comparador de precios. Hecho con React.js y Supabase",
+        img: "cost.webp",
+        repo: "costos-rouge.vercel.app",
+        demo: "https://github.com/Hexdec-MC/Costos"
     },
     {
-        titulo: "EE2 Display Fix",
-        descripcion: "Optimización de motor gráfico para Empire Earth 2 en resoluciones modernas.",
-        img: "p3.webp",
-        repo: "https://github.com/...",
-        demo: "#"
+        titulo: "Diseño de Pagina Web 1",
+        descripcion: "Diseño de Pagina web hecha con html, css y javascript.",
+        img: "pag2.webp",
+        repo: "https://github.com/Hexdec-MC/landing",
+        demo: "https://hexdec-mc.github.io/landing/Landig2/"
     },
     {
-        titulo: "EE2 Display Fix",
-        descripcion: "Optimización de motor gráfico para Empire Earth 2 en resoluciones modernas.",
-        img: "p4.webp",
-        repo: "https://github.com/...",
-        demo: "#"
+        titulo: "Diseño de Pagina Web 2",
+        descripcion: "Diseño de Pagina web hecha con html, css y javascript. Inspirado en Nevados.",
+        img: "pag3.webp",
+        repo: "https://github.com/Hexdec-MC/landing",
+        demo: "https://hexdec-mc.github.io/landing/isa/"
+    },
+    {
+        titulo: "Diseño de Pagina Web 3",
+        descripcion: " Diseño de Pagina web 3D hecha con html, css y javascript",
+        img: "pag1.webp",
+        repo: "https://github.com/Hexdec-MC/landing",
+        demo: "https://hexdec-mc.github.io/landing/Landing1/"
     }
 ];
 
